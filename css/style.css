@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+
 body{
-    font-family: monospace;
-    background-color: rgb(84, 136, 199);
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: #5488c7;
     color: white;
 }
 
@@ -13,10 +15,9 @@ html, .fullscreen{
 }
 
 .container{
+    padding: 10px;
     margin: auto;
-    background-color: rgb(74, 111, 157);
-    width: 160px;
-    height: 160px;
+    background-color: #4a6f9d;
     border-radius: 10px;
 }
 
